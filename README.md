@@ -36,23 +36,23 @@ CONV3D -> RELU -> MAXPOOL -> CONV3D -> RELU -> MAXPOOL -> FLATTEN -> FULLYCONNEC
 
 #### References – 
 
-a.	Ehsan Hosseini et al: Alzheimer’s disease diagnostics by a 3D deeply supervised adaptable convolutional network
-b.	Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun; Microsoft Research: Deep Residual Learning for Image Recognition
-c.	Karen Simonyan & Andrew Zisserman: Very Deep Convolutional Networks for Large-Scale Image Recognition
-d.	Ilija Ilievski et al: Efficient Hyperparameter Optimization of Deep Learning Algorithms Using Deterministic RBF Surrogates 
-e.	Tobias Hinz et al: Speeding up the Hyperparameter Optimization of Deep Convolutional Neural Networks 
-f.	Volodymyr Turchenko, Eric Chalmers, Artur Luczak: A Deep Convolutional Auto-Encoder with Pooling - Unpooling Layers in Caffe 
-g.	G. E. Hinton and R. R. Salakhutdinov: Reducing the Dimensionality of Data with Neural Networks 
-h.	Salah Rifai et al: Contractive Auto-Encoders: Explicit Invariance During Feature Extraction 
-i.	Xifeng Guo, Xinwang Liu, En Zhu, and Jianping Yin: Deep Clustering with Convolutional Autoencoders- 
-j.	Maximilian Kohlbrenner et al: Pre-Training CNNs Using Convolutional Autoencoders 
-k.	Soren Becker et al: Interpreting and Explaining Deep Neural Networks for 
-l.	Classification of Audio Signals 
-m.	Johannes Rieke et al: Visualizing Convolutional Networks for MRI-based 
-n.	Diagnosis of Alzheimer’s Disease
+1.	Ehsan Hosseini et al: Alzheimer’s disease diagnostics by a 3D deeply supervised adaptable convolutional network
+2.	Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun; Microsoft Research: Deep Residual Learning for Image Recognition
+3.	Karen Simonyan & Andrew Zisserman: Very Deep Convolutional Networks for Large-Scale Image Recognition
+4.	Ilija Ilievski et al: Efficient Hyperparameter Optimization of Deep Learning Algorithms Using Deterministic RBF Surrogates 
+5.	Tobias Hinz et al: Speeding up the Hyperparameter Optimization of Deep Convolutional Neural Networks 
+6.	Volodymyr Turchenko, Eric Chalmers, Artur Luczak: A Deep Convolutional Auto-Encoder with Pooling - Unpooling Layers in Caffe 
+7.	G. E. Hinton and R. R. Salakhutdinov: Reducing the Dimensionality of Data with Neural Networks 
+8.	Salah Rifai et al: Contractive Auto-Encoders: Explicit Invariance During Feature Extraction 
+9.	Xifeng Guo, Xinwang Liu, En Zhu, and Jianping Yin: Deep Clustering with Convolutional Autoencoders- 
+10.	Maximilian Kohlbrenner et al: Pre-Training CNNs Using Convolutional Autoencoders 
+11.	Soren Becker et al: Interpreting and Explaining Deep Neural Networks for 
+12.	Classification of Audio Signals 
+13.	Johannes Rieke et al: Visualizing Convolutional Networks for MRI-based 
+14.	Diagnosis of Alzheimer’s Disease
 Appendices (if used) - Github URL:
 
-https://github.com/quqixun/BrainPrep
-https://link.springer.com/chapter/10.1007/3-540-32390-2_64
-https://gist.github.com/shagunsodhani/5d726334de3014defeeb701099a3b4b3
+⋅⋅* https://github.com/quqixun/BrainPrep
+⋅⋅* https://link.springer.com/chapter/10.1007/3-540-32390-2_64
+⋅⋅* https://gist.github.com/shagunsodhani/5d726334de3014defeeb701099a3b4b3
 
