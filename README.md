@@ -50,9 +50,10 @@ CONV3D -> RELU -> MAXPOOL -> CONV3D -> RELU -> MAXPOOL -> FLATTEN -> FULLYCONNEC
 12.	Classification of Audio Signals 
 13.	Johannes Rieke et al: Visualizing Convolutional Networks for MRI-based 
 14.	Diagnosis of Alzheimer’s Disease
-Appendices (if used) - Github URL:
 
-⋅⋅* https://github.com/quqixun/BrainPrep
-⋅⋅* https://link.springer.com/chapter/10.1007/3-540-32390-2_64
-⋅⋅* https://gist.github.com/shagunsodhani/5d726334de3014defeeb701099a3b4b3
+##### Appendices (if used) - Github URL:
+
+* https://github.com/quqixun/BrainPrep
+* https://link.springer.com/chapter/10.1007/3-540-32390-2_64
+* https://gist.github.com/shagunsodhani/5d726334de3014defeeb701099a3b4b3
 
