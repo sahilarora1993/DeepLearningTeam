@@ -32,5 +32,5 @@ Mapped MRI scan file names to labels from data_nacc_diagnosis.xlsx
 CONV3D -> RELU -> MAXPOOL -> CONV3D -> RELU -> MAXPOOL -> FLATTEN -> FULLYCONNECTED -> FULLYCONNECTED
 3. Compute Cost using cross entropy
 4. Random_mini_batches was used to increase training speed by dividing the dataset into batches 
-5. Call the model function, specifying learning_rate, num_epochs, minibatch_size, and whether the model is pretrained, to get cost and training & validation accuracy rate
+5. The model specifies learning_rate, num_epochs, minibatch_size, and whether the model is pretrained, to get cost and training & validation accuracy rate
 
