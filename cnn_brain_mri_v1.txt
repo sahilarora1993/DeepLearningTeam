@@ -1,0 +1,17 @@
+v1_comment:
+1. 
+sample_normal = image_data[image_data['match_label'] == 'Cognitively normal'].head(2)
+change parameter of head
+2.
+X = np.zeros((6,256,256,256))
+Y = np.zeros((6,1))
+change 6(2*3) to other number
+3
+training_idx, test_idx = indices[:3], indices[3:]
+change indices[:3]
+change 3 to others
+
+4,def model(X_train, Y_train, X_test, Y_test, learning_rate = 0.009,
+          num_epochs = 5, minibatch_size = 3, print_cost = True):
+
+  change num_epochs, minibatch_size
