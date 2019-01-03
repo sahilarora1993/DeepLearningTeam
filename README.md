@@ -19,3 +19,12 @@ Mapped MRI scan file names to labels from data_nacc_diagnosis.xlsx
 6. Having difficulty to load the dataset converted the data to into 4 NumPy arrays: img (just image path to save memory), age, sex, label
 
 ### Deep Learning Model
+1. Load all input tensors
+2. Use one-hot encoding for labels
+3. Add new axis to img, age, sex
+4. Define function to retrieve images from img_path, including downsampling and normalizing images
+### Model
+1. Initialize_parameters
+2. Forward_propagation:
+CONV3D -> RELU -> MAXPOOL -> CONV3D -> RELU -> MAXPOOL -> FLATTEN -> FULLYCONNECTED -> FULLYCONNECTED
+3. Compute Cost
