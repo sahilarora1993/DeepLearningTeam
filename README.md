@@ -22,9 +22,14 @@ Mapped MRI scan file names to labels from data_nacc_diagnosis.xlsx
 1. Load all input tensors
 2. Use one-hot encoding for labels
 3. Add new axis to img, age, sex
-4. Define function to retrieve images from img_path, including downsampling and normalizing images
+4. Define function to retrieve images from img_path, including downsampling and normalizing images 
+
+
 ### Model
-1. Initialize_parameters
+1. Initialize_parameters (num_epochs=3, learning_rate = 0.01, and minibatch_size = 50)
 2. Forward_propagation:
 CONV3D -> RELU -> MAXPOOL -> CONV3D -> RELU -> MAXPOOL -> FLATTEN -> FULLYCONNECTED -> FULLYCONNECTED
-3. Compute Cost
+3. Compute Cost using cross entropy
+4. Random_mini_batches was used to increase training speed by dividing the dataset into batches 
+5. Call the model function, specifying learning_rate, num_epochs, minibatch_size, and whether the model is pretrained, to get cost and training & validation accuracy rate
+
