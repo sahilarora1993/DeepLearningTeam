@@ -9,13 +9,13 @@ We started the modeling by trying to understand the structure of the MRI scans. 
 
 
 ### Data Preprocessing
-OASIS - 
+1. OASIS - 
 Mapped MRI image files for the labels Cognitively normal, AD dementia, and Uncertain dementia within the 180 day range.
-NACC - 
+2. NACC - 
 Mapped MRI scan file names to labels from data_nacc_diagnosis.xlsx
-Encoded sex and normalise age.
-Merge OASIS & NACC data samples
-Divide data samples into training, validation, and test sets
-Having difficulty to load the dataset converted the data to into 4 NumPy arrays: img (just image path to save memory), age, sex, label
+3. Encoded sex and normalise age.
+4. Merge OASIS & NACC data samples
+5. Divide data samples into training, validation, and test sets
+6. Having difficulty to load the dataset converted the data to into 4 NumPy arrays: img (just image path to save memory), age, sex, label
 
 ### Deep Learning Model
