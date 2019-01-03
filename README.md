@@ -1,4 +1,5 @@
-Team : Donghao, Tiffany, Sahil, Chanand
+# Team : Donghao, Tiffany, Sahil, Chanand
+
 Our goal is to use 3D-CNN to determine whether patients have alzheimer diseases based on the MRI scans. This is essential in the future as more countries are experiencing an aging population. As more people live longer, alzheimer are becoming more prevalent. If we could create a model to help doctors detect alzheimer disease, this will greatly increase the productivity of such doctors.
 
 Following three steps were performed: 
